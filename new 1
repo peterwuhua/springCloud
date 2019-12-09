@@ -6,6 +6,9 @@ http://10.21.69.185/AuthorityCenter/Handler/UserManage.ashx?Action=ChgPwd&Name=a
 
 复杂json转Bean方法：https://www.cnblogs.com/rainersha/p/10678268.html
 
+
+git 上传到github上可以参考：https://www.cnblogs.com/mr-wuxiansheng/p/6974170.html
+
 12.09
 修改文件：/auth/src/main/java/com/citics/auth/login/pojo/Data.java
 /auth/src/main/java/com/citics/auth/login/pojo/JsonRootBean.java
