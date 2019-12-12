@@ -1,0 +1,11 @@
+复杂json转Bean方法：https://www.cnblogs.com/rainersha/p/10678268.html
+
+git 上传到github上可以参考：https://www.cnblogs.com/mr-wuxiansheng/p/6974170.html
+git pull --rebase origin master
+
+
+java se 8 在线文档：https://docs.oracle.com/javase/8/docs/api/allclasses-noframe.html
+rabbitMq官网：https://www.rabbitmq.com/tutorials/tutorial-one-java.html
+
+rabbitmQ用户权限配置： https://www.jianshu.com/p/b5f8057a1cd5
+
